@@ -223,6 +223,3 @@ const interestedIn = prompt(
   "What do you want to know about Marissa? Choose between fristName, lastName, age, job, and friends"
 );
 console.log(marissa[interestedIn]);
-
-//Im now using git for uploads
-// signed in
